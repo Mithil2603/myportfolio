@@ -1,0 +1,26 @@
+.rightbody{
+    width: 65vw;
+    height: inherit;
+    margin: 10px;
+    box-sizing: border-box;
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightbody h1{
+    margin-bottom: 20px;
+    font-size: 90px;
+}
+
+.text{
+    width: 70%;
+    font-size: 20px;
+}
+
+.color{
+    color: #FF6A3D;
+}
